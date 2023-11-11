@@ -10,7 +10,6 @@ Here I created an app that is able to load a json file from firebase and keep th
 
 Android studio and firebase. I used JAVA and Kotlin to create the app and load the data without using an api like the last one.
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
@@ -19,7 +18,6 @@ Android studio and firebase. I used JAVA and Kotlin to create the app and load t
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Design and layout
 * add a google sign in
 * publish
