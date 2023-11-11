@@ -4,7 +4,7 @@
 
 Here I created an app that is able to load a json file from firebase and keep the file local to the device decreaing the amount of neede requests for the app to function well. I also add the fucntionality of saving your own articles to a favorites list and deleting them from the list as well and a way to view all your favorite lists. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1pHN-HASEXI)
 
 # Development Environment
 
